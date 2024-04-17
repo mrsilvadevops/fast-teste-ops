@@ -66,6 +66,8 @@ Gerenciamento do cluster utilizado Lens
 
 ![alt text](image-2.png)
 
+![alt text](image-4.png)
+
 URL de acesso da stack Prometheus
 
 http://a278fef3deb1a4462974de193391c0cd-1940634605.us-east-1.elb.amazonaws.com
